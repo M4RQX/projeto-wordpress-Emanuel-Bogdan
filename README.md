@@ -13,3 +13,5 @@ Este site foi desenvolvido no âmbito do módulo "Tecnologias de Acesso a Base d
 ##Como Executar:
 1.Copiar a pasta 'wordpress' para 'wamp64/www'
 2.Importar 'base_dados' no phpMyAdmin
+
+https://aehn-my.sharepoint.com/:u:/g/personal/a42743_aehn_net/ETkN2gR26hdCtk-hpifdCs8B3GAtG0Auu3U0AKk_5a60ew?e=LDxGK7
